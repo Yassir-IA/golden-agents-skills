@@ -21,12 +21,10 @@ pousser-agent-setteo`, avec `iterer-qualite` en boucle d'amélioration.
 
 ## Installation (une fois par personne)
 
-> Remplacer `Yassir-IA/golden-agents-skills` par le vrai chemin GitHub du repo.
-
 ### Claude Code
 
 ```
-/plugin marketplace add VOTRE-ORG/golden-agents-skills
+/plugin marketplace add Yassir-IA/golden-agents-skills
 /plugin install golden-agents@smartfunnel
 ```
 
