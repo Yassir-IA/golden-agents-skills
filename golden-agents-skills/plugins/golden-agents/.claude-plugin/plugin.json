@@ -1,0 +1,8 @@
+{
+  "name": "golden-agents",
+  "version": "1.0.0",
+  "description": "Chaîne complète de création d'agents IA conversationnels SmartFunnel, du brief à la mise en ligne, avec un socle de conventions partagé. 7 skills : golden-agents-conventions, brief, choisir-golden-agent, generer-script-chatbot, auditer-agent, pousser-agent-setteo, iterer-qualite.",
+  "author": {
+    "name": "SmartFunnel"
+  }
+}

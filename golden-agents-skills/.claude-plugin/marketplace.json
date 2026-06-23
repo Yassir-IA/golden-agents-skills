@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "smartfunnel",
+  "owner": {
+    "name": "SmartFunnel"
+  },
+  "metadata": {
+    "description": "Skills internes SmartFunnel pour créer des agents IA conversationnels standardisés.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "golden-agents",
+      "source": "golden-agents",
+      "description": "Chaîne complète de création d'agents IA SmartFunnel : brief, choix du Golden Agent, génération, audit, mise en ligne Setteo, itération qualité, plus le socle de conventions. 7 skills.",
+      "version": "1.0.0",
+      "author": {
+        "name": "SmartFunnel"
+      }
+    }
+  ]
+}
