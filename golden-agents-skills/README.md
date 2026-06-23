@@ -21,7 +21,7 @@ pousser-agent-setteo`, avec `iterer-qualite` en boucle d'amélioration.
 
 ## Installation (une fois par personne)
 
-> Remplacer `VOTRE-ORG/golden-agents-skills` par le vrai chemin GitHub du repo.
+> Remplacer `Yassir-IA/golden-agents-skills` par le vrai chemin GitHub du repo.
 
 ### Claude Code
 
